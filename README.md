@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **only1tarunno@gmail.com**
 
-- 📄 Resume [Check My Experience](https://drive.google.com/file/d/1JWEdi2HnoMmeYnvdFdC5TnfrgPetWfVv/view?usp=share_link)
+- 📄 Resume [Check My Experience](https://drive.google.com/file/d/12-QfYsheVAv2iDmkvW2qbULbV2GsbRN6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
