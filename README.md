@@ -4,6 +4,20 @@
 
 <br />
 
+## :eyes: Current overview
+
+### 🔭 I’m Engaged With - My Own Project.
+
+### 🌱 I’m currently learning - NextJs.
+
+### 👯 I’m looking - To collaborate on open source projects.
+
+### 💬 Ask me about - MERN.
+
+### ⚡ Fun fact - I thoroughly enjoy problem-solving challenges.
+
+<br />
+
 ## 📋: Brief description of my work
 
 <br />
@@ -50,21 +64,3 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=only1tarunno&theme=dark" alt="GitHub Streak" />
   
 </p>
-
-## :eyes: Current overview
-
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
-
-### 🔭 I’m working - In Programming Hero.
-
-### 🌱 I’m exploring - Advance motion graphics for web.
-
-### 👯 I’m looking - To collaborate on open source projects.
-
-### 🤔 I’m trying - To help people learn web development.
-
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
-
-<br />
