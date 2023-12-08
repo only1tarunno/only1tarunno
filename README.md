@@ -65,5 +65,5 @@
   
 </p>
 <div align="center">
-<img align="right" src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/only1tarunno_repos.png" width="70%" alt="Fardin Rahman's Dev Card"/>
+<img  src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/only1tarunno_repos.png" width="70%" alt="Fardin Rahman's Dev Card"/>
 </div>
