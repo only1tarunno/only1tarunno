@@ -18,16 +18,16 @@
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/css.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/JavaScript.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/tailwind.png"/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/MaterialUI-Dark.svg"/>
+<img  src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/MaterialUI-Dark.svg" width=60 height=60/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/Bootsrap.png"/>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/react.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/firebase.png"/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/jwt.svg"/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Vite-Dark.svg"/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Postman.svg"/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Wordpress.svg"/>
+<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/jwt.svg" width=60 height=60/>
+<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Vite-Dark.svg" width=60 height=60/>
+<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Postman.svg" width=60 height=60/>
+<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Wordpress.svg" width=60 height=60/>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/node.png"/>
