@@ -9,11 +9,11 @@
 <br />
 
 <ul>
-    <li>Full-stack web developer with expertise in React, Node.js, and MongoDB/Mongoose</li>
-    <li>Proficient in Tailwind CSS for frontend styling</li>
-    <li>Skilled in implementing JWT and Google authentication</li>
-    <li>Experienced in Axios for HTTP requests</li>
-    <li>Proficient in Tanstack queries</li>
+    <li>Full-stack web developer with expertise in React, Node.js, and MongoDB/Mongoose.</li>
+    <li>Proficient in Tailwind CSS for frontend styling.</li>
+    <li>Skilled in implementing JWT and Google authentication.</li>
+    <li>Experienced in Axios for HTTP requests.</li>
+    <li>Proficient in Tanstack queries.</li>
 </ul>
 
 <br />
