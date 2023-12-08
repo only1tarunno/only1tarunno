@@ -61,9 +61,9 @@
 
 <br />
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=only1tarunno&theme=dark" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=only1tarunno&theme=dark" alt="GitHub Streak" />
   
 </p>
-<div align="left">
-<img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Fardin Rahman's Dev Card"/>
+<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/only1tarunno_repos.png" width="70%" alt="Fardin Rahman's Dev Card"/>
 </div>
