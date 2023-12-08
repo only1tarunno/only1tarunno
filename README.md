@@ -60,7 +60,10 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=only1tarunno&theme=dark" alt="GitHub Streak" />
+<p align="left">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=only1tarunno&theme=dark" alt="GitHub Streak" />
   
+</p>
+<p align="right">
+<img width="48%" align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
 </p>
