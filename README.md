@@ -60,10 +60,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=only1tarunno&theme=dark" alt="GitHub Streak" />
-  
-</p>
-<p align="right">
-<img width="48%" align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img width="48%" style="margin-right: 2%;" src="https://github-readme-streak-stats.herokuapp.com?user=only1tarunno&theme=dark" alt="GitHub Streak" />
+  <img width="48%" style="margin-left: 2%;" src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/only1tarunno_repos.png" width="200" alt="Fardin Rahman's Dev Card"/>
+</div>
