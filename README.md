@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/firebase.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/jwt.svg" width=60 height=60/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Vite-Dark.svg" width=60 height=60/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/13f84e89c6d3d3b0c901c66e59b9ba7709a0d943/image/icons/Axios.svg" width=60 height=60/>
+<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/037a41e5ad647d4885e8ea5cbb90fdeafd2f77a6/image/icons/react-router.svg" width=60 height=60/>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/node.png"/>
