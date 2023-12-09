@@ -66,12 +66,28 @@
 <img  src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/repos.png" width="60%" alt="Fardin Rahman's Dev Card"/>
 </div>
 
-## :🔥: Projects
+## 🔥: Projects
 
-1. ELESSI E-Commerce Website
+1. ELESSI- E-Commerce Website
 
 - **Description:** ELESSI, an e-commerce hub, is a dynamic online marketplace serving both users and admins. It ensures smooth stock management, allowing users to browse and make purchases. Admins supervise inventory, orders, and the overall site functionality.
 
 - **Live Link:** https://shop-73392.web.app
 - **Client Repo:** https://github.com/only1tarunno/shop-client
 - **Server Repo:** https://github.com/only1tarunno/shop-server
+
+2. Magezix- Newspaper Website
+
+- **Description:** Magizex, a dynamic newspaper website, presents trending topics for user exploration. Users wield the power to contribute by adding, updating, or deleting articles pending admin approval. Unlocking premium articles is possible through subscription, enhancing the reading experience.
+
+- **Live Link:** https://newspaper-fa271.web.app
+- **Client Repo:** https://github.com/only1tarunno/Magezix-client
+- **Server Repo:** https://github.com/only1tarunno/Magezix-server
+
+2. ClubFit- Service Sharing Website
+
+- **Description:** Clubfit is a service-sharing web application where users can manage services (add, update, delete) and make bookings. Providers oversee bookings, update service statuses via 'mySchedule', and showcase other services offered. Users can view a provider's additional services in the service details. Providers are unable to book their own services.
+
+- **Live Link:** https://fitness-and-sports-f762a.web.app
+- **Client Repo:** https://github.com/only1tarunno/sport-client
+- **Server Repo:** https://github.com/only1tarunno/sport-server
