@@ -80,11 +80,19 @@
 
 - **Description:** Magizex, a dynamic newspaper website, presents trending topics for user exploration. Users wield the power to contribute by adding, updating, or deleting articles pending admin approval. Unlocking premium articles is possible through subscription, enhancing the reading experience.
 
-- **Live Link:** https://newspaper-fa271.web.app
-- **Client Repo:** https://github.com/only1tarunno/Magezix-client
-- **Server Repo:** https://github.com/only1tarunno/Magezix-server
+<ul>
+  <li>
+    <a href="https://newspaper-fa271.web.app" target="_blank">Live Link</a>
+  </li>
+  <li>
+    <a href="https://github.com/only1tarunno/Magezix-client" target="_blank">Client Repo</a>
+  </li>
+  <li>
+    <a href="https://github.com/only1tarunno/Magezix-server" target="_blank">Server Repo</a>
+  </li>
+</ul>
 
-2. ClubFit- Service Sharing Website
+3. ClubFit- Service Sharing Website
 
 - **Description:** Clubfit is a service-sharing web application where users can manage services (add, update, delete) and make bookings. Providers oversee bookings, update service statuses via 'mySchedule', and showcase other services offered. Users can view a provider's additional services in the service details. Providers are unable to book their own services.
 
