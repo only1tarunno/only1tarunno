@@ -68,7 +68,7 @@
 
 ## 🔥: Projects
 
-1. ELESSI- E-Commerce Website
+1. ### ELESSI- E-Commerce Website
 
 - **Description:** ELESSI, an e-commerce hub, is a dynamic online marketplace serving both users and admins. It ensures smooth stock management, allowing users to browse and make purchases. Admins supervise inventory, orders, and the overall site functionality.
 
@@ -84,7 +84,7 @@
   </li>
 </ul>
 
-2. Magezix- Newspaper Website
+2. ### Magezix- Newspaper Website
 
 - **Description:** Magizex, a dynamic newspaper website, presents trending topics for user exploration. Users wield the power to contribute by adding, updating, or deleting articles pending admin approval. Unlocking premium articles is possible through subscription, enhancing the reading experience.
 
@@ -100,7 +100,7 @@
   </li>
 </ul>
 
-3. ClubFit- Service Sharing Website
+3. ### ClubFit- Service Sharing Website
 
 - **Description:** Clubfit is a service-sharing web application where users can manage services (add, update, delete) and make bookings. Providers oversee bookings, update service statuses via 'mySchedule', and showcase other services offered. Users can view a provider's additional services in the service details. Providers are unable to book their own services.
 
