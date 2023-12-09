@@ -42,20 +42,18 @@
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/tailwind.png"/>
 <img  src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/MaterialUI-Dark.svg" width=60 height=60/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/Bootsrap.png"/>
+<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/firebase.png"/>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/react.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/react-query.png" width=60 height=60/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/firebase.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/jwt.svg" width=60 height=60/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/5e7e1ccd82861373ab4e11da34cce533b3d49ee6/image/icons/Vite-Dark.svg" width=60 height=60/>
-<img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/037a41e5ad647d4885e8ea5cbb90fdeafd2f77a6/image/icons/react-router.svg" width=60 height=60/>
-</p>
-<p align="center">
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/node.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/express.png"/>
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/mongo.png"/>
-</p><br/>
+</p>
+<br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
