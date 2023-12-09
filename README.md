@@ -72,9 +72,17 @@
 
 - **Description:** ELESSI, an e-commerce hub, is a dynamic online marketplace serving both users and admins. It ensures smooth stock management, allowing users to browse and make purchases. Admins supervise inventory, orders, and the overall site functionality.
 
-- **Live Link:** https://shop-73392.web.app
-- **Client Repo:** https://github.com/only1tarunno/shop-client
-- **Server Repo:** https://github.com/only1tarunno/shop-server
+<ul>
+  <li>
+    <a href="https://shop-73392.web.app" target="_blank">Live Link</a>
+  </li>
+  <li>
+    <a href="https://github.com/only1tarunno/shop-client" target="_blank">Client Repo</a>
+  </li>
+  <li>
+    <a href="https://github.com/only1tarunno/shop-server" target="_blank">Server Repo</a>
+  </li>
+</ul>
 
 2. Magezix- Newspaper Website
 
@@ -96,6 +104,14 @@
 
 - **Description:** Clubfit is a service-sharing web application where users can manage services (add, update, delete) and make bookings. Providers oversee bookings, update service statuses via 'mySchedule', and showcase other services offered. Users can view a provider's additional services in the service details. Providers are unable to book their own services.
 
-- **Live Link:** https://fitness-and-sports-f762a.web.app
-- **Client Repo:** https://github.com/only1tarunno/sport-client
-- **Server Repo:** https://github.com/only1tarunno/sport-server
+<ul>
+  <li>
+    <a href="https://fitness-and-sports-f762a.web.app" target="_blank">Live Link</a>
+  </li>
+  <li>
+    <a href="https://github.com/only1tarunno/sport-client" target="_blank">Client Repo</a>
+  </li>
+  <li>
+    <a href="https://github.com/only1tarunno/sport-server" target="_blank">Server Repo</a>
+  </li>
+</ul>
