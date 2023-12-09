@@ -65,3 +65,13 @@
 <div align="center">
 <img  src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/icons/repos.png" width="60%" alt="Fardin Rahman's Dev Card"/>
 </div>
+
+## :🔥: Projects
+
+1. ELESSI E-Commerce Website
+
+- **Description:** ELESSI, an e-commerce hub, is a dynamic online marketplace serving both users and admins. It ensures smooth stock management, allowing users to browse and make purchases. Admins supervise inventory, orders, and the overall site functionality.
+
+- **Live Link:** https://shop-73392.web.app
+- **Client Repo:** https://github.com/only1tarunno/shop-client
+- **Server Repo:** https://github.com/only1tarunno/shop-server
