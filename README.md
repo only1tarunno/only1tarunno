@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/cover.png" />
 </a>
 
-## 👨‍💼: About me
+## 👨‍💼 About me
 
 <br />
 
