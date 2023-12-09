@@ -2,33 +2,31 @@
 <img src="https://raw.githubusercontent.com/only1tarunno/only1tarunno/main/image/cover.png" />
 </a>
 
+## 👨‍💼: About me
+
+<br />
+
+<p>I'm a professional full-stack web developer specializing in React, Node.js, and MongoDB/Mongoose. I use Tailwind CSS to create stunning and polished UI designs. Additionally, I excel in implementing authentication systems, whether it's JWT or Google authentication. My expertise extends to efficiently handling HTTP requests with Axios and leveraging Tanstack queries for optimal performance in my applications.</p>
+
+<br />
+
 <br />
 
 ## :eyes: Current overview
 
-### 🔭 I’m Engaged With - My Own Project.
-
-### 🌱 I’m currently learning - NextJs.
-
-### 👯 I’m looking - To collaborate on open source projects.
-
-### 💬 Ask me about - MERN.
-
-### ⚡ Fun fact - I thoroughly enjoy problem-solving challenges.
-
+**🔭 I’m Engaged With - My Own Project.**
 <br />
 
-## 📋: Brief description of my work
-
+**🌱 I’m currently learning - NextJs.**
 <br />
 
-<ul>
-    <li>Full-stack web developer with expertise in React, Node.js, and MongoDB/Mongoose.</li>
-    <li>Proficient in Tailwind CSS for frontend styling.</li>
-    <li>Skilled in implementing JWT and Google authentication.</li>
-    <li>Experienced in Axios for HTTP requests.</li>
-    <li>Proficient in Tanstack queries.</li>
-</ul>
+**👯 I’m looking - To collaborate on open source projects.**
+<br />
+
+**💬 Ask me about - MERN.**
+<br />
+
+**⚡ Fun fact - I thoroughly enjoy problem-solving challenges.**
 
 <br />
 
